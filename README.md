@@ -3,9 +3,13 @@ This automation reduces manual data entry, minimizes user error, and speeds up t
 ________________________________________
 🎯 Purpose
 Traditionally, the offer process requires the user to:
+
 •	Manually change up to 17+ currency fields from USD to the local region’s currency.
+
 •	Manually input key prospect details from external data sources.
+
 •	Verify that each field is accurately entered before submission.
+
 This script automates these repetitive tasks — ensuring speed, accuracy, and consistency across all offers.
 ________________________________________
 ⚙️ How It Works
