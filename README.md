@@ -28,6 +28,7 @@ In the Chrome window:
 In the second terminal:
 source venv/bin/activate
 python3 mr-offer.py
+
 ⚠️ Important:
 Once the script starts running, do not click or interact with the browser until completion.
 Manual interference will cause errors
