@@ -1,4 +1,4 @@
-The Offer Processing Automation Script streamlines the business offer admin process within a popular ATS system.
+The offer processing automation script streamlines the business offer admin process within a popular ATS system.
 My professional workflow is optimised reducing manual data entry, user error and speed of business process.
 ________________________________________
 🎯 The user journey today 
